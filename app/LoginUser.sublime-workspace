@@ -1,0 +1,1189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"S",
+				"Socialite"
+			],
+			[
+				"m",
+				"mobile2"
+			],
+			[
+				"ph",
+				"phone2"
+			],
+			[
+				"e",
+				"email2"
+			],
+			[
+				"dep",
+				"deptype2"
+			],
+			[
+				"position",
+				"position2"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"insn",
+				"insnameid"
+			],
+			[
+				"A",
+				"AGR_bonus"
+			],
+			[
+				"AGR",
+				"AGR_start_date"
+			],
+			[
+				"AJV",
+				"AJV_EMP_ID"
+			],
+			[
+				"o",
+				"Others"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Instit",
+				"Institution"
+			],
+			[
+				"ins",
+				"instype"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"session",
+				"session_code"
+			],
+			[
+				"session_co",
+				"session_code"
+			],
+			[
+				"ac",
+				"activation_code"
+			],
+			[
+				"s",
+				"sSql"
+			],
+			[
+				"omdi",
+				"omdixt123"
+			],
+			[
+				"OM",
+				"Omdixit"
+			],
+			[
+				"mysql_r",
+				"mysql_result"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"mysqli_",
+				"mysql_insert_id"
+			],
+			[
+				"tos",
+				"tos_value"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"first",
+				"First"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"fist",
+				"first_name"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"emai",
+				"email_address"
+			],
+			[
+				"em",
+				"email_address"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/ajveverest/resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 2275,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Providers/RouteServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 1742,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ajveverest/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ajveverest/resources/views/partials/user-menu.blade.php",
+			"settings":
+			{
+				"buffer_size": 528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Http/Controllers/Auth/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Http/Controllers/LoginController.php",
+			"settings":
+			{
+				"buffer_size": 1099,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ajveverest/resources/views/auth/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LoginUser.php",
+			"settings":
+			{
+				"buffer_size": 891,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ajveverest/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php",
+			"settings":
+			{
+				"buffer_size": 5262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "User.php",
+			"settings":
+			{
+				"buffer_size": 596,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ajveverest/database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 755,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\xampp\\htdocs\\ajveverest\\app\\LoginUser.php\n\t|+| 8\n\t|+| 18\n=> C:\\xampp\\htdocs\\ajveverest\\resources\\views\\layouts\\master.blade.php\n\t|+| 37\n\t|+| 40\n",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ajveverest/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/ajveverest/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/C/xampp/htdocs/ajveverest/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/ajveverest/app/Http/Controllers/Auth/Controller.php",
+		"/C/xampp/htdocs/ajveverest/routes/web.php",
+		"/C/xampp/htdocs/ajveverest/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/ajveverest/app/Http/Controllers/LoginController.php",
+		"/C/xampp/htdocs/ajveverest/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/ajveverest/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/layouts/app.stub",
+		"/C/xampp/htdocs/ajveverest/storage/framework/.gitignore",
+		"/C/xampp/htdocs/ajveverest/resources/views/home.blade.php",
+		"/C/xampp/htdocs/ajveverest/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/ajveverest/app/Exceptions/Handler.php",
+		"/C/xampp/htdocs/ajveverest/resources/views/partials/flash-messages.blade.php",
+		"/C/xampp/htdocs/ajveverest/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/ajveverest/config/services.php",
+		"/C/xampp/htdocs/ajveverest/config/app.php",
+		"/C/xampp/htdocs/ajveverest/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/ajveverest/resources/views/dashboard.blade.php",
+		"/C/xampp/htdocs/ajveverest/app/Exceptions/SocialAuthException.php",
+		"/C/xampp/htdocs/ajveverest/app/LoginUser.php",
+		"/C/xampp/htdocs/ajveverest/app/User.php",
+		"/C/xampp/htdocs/ajveverest/.env",
+		"/C/xampp/htdocs/ajveverest/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/ajveverest/database/migrations/2017_12_01_041521_create_social_login_profiles_table.php",
+		"/C/xampp/htdocs/ajveverest/vendor/composer/autoload_static.php",
+		"/C/xampp/htdocs/ajveverest/storage/framework/views/45d82d97ba837da30d131996689a10594b35f57f.php",
+		"/C/xampp/htdocs/irm/index.php",
+		"/C/xampp/htdocs/irm/google.php",
+		"/C/xampp/htdocs/irm/add_contact.php",
+		"/C/xampp/htdocs/irm/login.php",
+		"/C/xampp/htdocs/irm/add_Institution.php",
+		"/C/xampp/htdocs/irm/add_Insdetail.php",
+		"/C/xampp/htdocs/irm/addagreement.php",
+		"/C/xampp/htdocs/irm/addcontact.php",
+		"/C/xampp/htdocs/irm/add_agreement.php",
+		"/C/xampp/htdocs/irm/get_agr.php",
+		"/C/xampp/htdocs/irm/functions12.php",
+		"/C/xampp/htdocs/irm/upload.php",
+		"/C/xampp/htdocs/irm/agreements.php",
+		"/C/xampp/htdocs/irm/bkp1.php",
+		"/C/xampp/htdocs/irm/Institutions.php",
+		"/C/xampp/htdocs/irm/get_ins.php",
+		"/C/xampp/htdocs/irm/ins_update.php",
+		"/C/xampp/htdocs/irm/insupdate.php",
+		"/C/xampp/htdocs/irm/imageUpload.php",
+		"/C/xampp/htdocs/irm/connect.php",
+		"/C/xampp/htdocs/irm/js/dob.js",
+		"/C/xampp/htdocs/irm/get_con.php",
+		"/C/xampp/htdocs/irm/bkp_functions1.php",
+		"/C/xampp/htdocs/irm/functions1.php",
+		"/C/xampp/htdocs/irm/contacts.php",
+		"/C/xampp/htdocs/dropdown/dropdown.php",
+		"/C/xampp/htdocs/dropdown/get_state.php",
+		"/C/Users/Dell/AppData/Local/Temp/wza1ec/jquery-dependent-dropdown-list-countries-and-states/dbcontroller.php",
+		"/C/Users/Dell/AppData/Local/Temp/wzd893/jquery-dependent-dropdown-list-countries-and-states/index.php",
+		"/C/xampp/htdocs/dropdown/connectdb.php",
+		"/C/xampp/htdocs/dependent_dropdown/db.php",
+		"/C/Users/Dell/AppData/Local/Temp/wzee5b/jquery-dependent-dropdown-list-countries-and-states/get_state.php",
+		"/C/xampp/htdocs/dependent_dropdown/get_states.php",
+		"/C/xampp/htdocs/dependent_dropdown/c.php",
+		"/C/Users/Dell/AppData/Local/Temp/wz3dd1/jquery-dependent-dropdown-list-countries-and-states/dbcontroller.php",
+		"/C/Users/Dell/AppData/Local/Temp/wz05ef/jquery-dependent-dropdown-list-countries-and-states/index.php",
+		"/C/xampp/htdocs/irm/functions.php",
+		"/C/xampp/htdocs/drop_down-disable/dd-mysqli.php",
+		"/C/xampp/htdocs/drop_down-disable/dd-check.php",
+		"/C/xampp/htdocs/drop_down-disable/dd.php",
+		"/C/xampp/htdocs/drop_down-disable/config-mysqli.php",
+		"/C/xampp/htdocs/drop_down-disable/config.php",
+		"/C/xampp/htdocs/drop_down-disable/connect.php",
+		"/C/Users/Dell/Downloads/drop_down-disable/drop_down-disable/dd-mysqli.php",
+		"/C/Users/Dell/AppData/Local/Temp/wz9725/drop_down-disable/dd.php",
+		"/C/Users/Dell/Downloads/drop_down-disable/drop_down-disable/dd-check.php",
+		"/C/Users/Dell/Downloads/drop_down-disable/drop_down-disable/config.php",
+		"/C/Users/Dell/Downloads/drop_down-disable/drop_down-disable/dd.php",
+		"/C/Users/Dell/Downloads/drop_down-disable/drop_down-disable/config-mysqli.php",
+		"/C/Users/Dell/Downloads/ajax-dd/ajax-dd/main.php",
+		"/C/xampp/htdocs/irm_bkp/irm/Institutions.php",
+		"/C/xampp/htdocs/irm_bkp/irm/login.php",
+		"/C/xampp/htdocs/irm_bkp/irm/index.php",
+		"/C/xampp/htdocs/irm_bkp/irm/functions.php",
+		"/C/xampp/htdocs/irm_bkp/irm/view_institution.php",
+		"/C/xampp/htdocs/irm_bkp/irm/addcontact.php",
+		"/C/xampp/htdocs/irm_bkp/irm/add_agreement.php",
+		"/C/xampp/htdocs/irm_bkp/irm/imageUpload.php",
+		"/C/xampp/htdocs/irm_bkp/irm/add_contact.php",
+		"/C/xampp/htdocs/irm_bkp/irm/connect.php",
+		"/C/xampp/htdocs/login-register/index.php",
+		"/C/xampp/htdocs/irm_bkp/irm/agreements.php",
+		"/C/xampp/htdocs/irm_bkp/irm/add_Institution.php",
+		"/C/xampp/htdocs/irm_bkp/irm/register.php",
+		"/C/xampp/htdocs/irm_bkp/irm/sprites",
+		"/C/xampp/htdocs/login-register/functions.php",
+		"/C/xampp/htdocs/login-register/register.php",
+		"/C/xampp/htdocs/login-register/login.php",
+		"/C/xampp/htdocs/login-register/connect.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_BDDEIA3ZSTCxK7rGSuMF_Remember Me (Ch 3.6).zip/login.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_GyttuaAxTl2lPNKdPeCd_Login (Ch 3.4).zip/functions.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_pRTfDw4fSOGuF4Z98595_Setup activation database (Ch 2.9).zip/functions.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_GyttuaAxTl2lPNKdPeCd_Login (Ch 3.4).zip/login.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_GyttuaAxTl2lPNKdPeCd_Login (Ch 3.4).zip/index.php",
+		"/C/xampp/htdocs/login-register/test.php",
+		"/C/xampp/htdocs/Learntoprogram/connect.php",
+		"/C/xampp/htdocs/Learntoprogram/index.php",
+		"/C/xampp/htdocs/Learntoprogram/register.php",
+		"/C/xampp/htdocs/login-register/createdb.php",
+		"/C/xampp/htdocs/login-register/insert_test.php",
+		"/C/xampp/htdocs/bkp/connect.php",
+		"/C/xampp/htdocs/bkp/Mybkp/functions.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_html_form.zip/html_form/html_form_send.php",
+		"/C/xampp/htdocs/WP/wp-content/themes/ajv/functions/builder/front.php",
+		"/C/xampp/htdocs/WP/wp-content/themes/ajv/page.php",
+		"/C/xampp/htdocs/jason/wp-config-sample.php",
+		"/C/xampp/htdocs/WP/wp-includes/plugin.php",
+		"/C/xampp/htdocs/WP/wp-config.php",
+		"/C/xampp/htdocs/WP/wordpress/wp-config.php",
+		"/C/Users/Dell/Downloads/wp-config.php",
+		"/C/xampp/htdocs/WP/wordpress/wp-config-sample.php",
+		"/C/xampp/htdocs/WP/wp-content/wp-cache-config.php",
+		"/C/xampp/htdocs/AJV/wp-config.php",
+		"/C/xampp/htdocs/bigdump/bigdump.php",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_bigdump.zip/bigdump.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/AJV/header.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/AJV/index.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/AJV/style.css",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/AJV/footer.php",
+		"/C/xampp/htdocs/login-register/salt.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\ajveverest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$query",
+			"firstOrCreate",
+			"insert",
+			"$query",
+			"$callback",
+			"fillable",
+			"('users')->insert",
+			"->insert",
+			"insert into",
+			"insert into `users` (`email`, `updated_at`, `created_at`)",
+			"insert into",
+			"insert into users",
+			"insert into",
+			"logged as",
+			"failed to authenticate",
+			"failed to authenticate with facebook",
+			"Session::set",
+			"Authenticate.php",
+			"\\Session::set('return', $request->path());",
+			"app/Http/Controllers/Auth/Login",
+			"Controller.php",
+			"View",
+			"view ('login')",
+			"guest",
+			"register",
+			"showLoginPage",
+			"routes.php",
+			"route.php",
+			"title m-b-md"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/ajveverest/resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1838,
+								1838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Providers/RouteServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1379,
+								1379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 832.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/ajveverest/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/ajveverest/resources/views/partials/user-menu.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Http/Controllers/Auth/LoginController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Http/Controllers/LoginController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/ajveverest/resources/views/auth/login.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "LoginUser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/ajveverest/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3337,
+								3343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2549.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/ajveverest/database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LoginUser.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"18":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 8
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 10
+				},
+				"36":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"39":
+				{
+					"group": 0,
+					"index": 11
+				},
+				"46":
+				{
+					"group": 0,
+					"index": 9
+				},
+				"68":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"69":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"71":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"76":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"83":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"87":
+				{
+					"group": 0,
+					"index": 5
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
