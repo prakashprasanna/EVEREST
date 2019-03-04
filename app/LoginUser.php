@@ -1,10 +1,13 @@
 <?php
 namespace App;
- 
+
 use App\Exceptions\SocialAuthException;
 use Exception;
 use Socialite;
 use file;
+use Auth;
+use App\User;
+
 
 class LoginUser
 {
@@ -16,8 +19,7 @@ class LoginUser
  
     public function login($provider)
     {
-       // try {
-            $socialUserInfo = Socialite::driver($provider)->user();
+            $socialUserInfo = Socialite::driver($provider)->stateless()->user();
  
             $user = User::firstOrCreate(['name' => $socialUserInfo->getName(),
                                          'email' => $socialUserInfo->getEmail(),
@@ -26,13 +28,13 @@ class LoginUser
             $socialProfile = $user->socialProfile ?: new SocialLoginProfile;
             $providerField = "{$provider}_id";
             $socialProfile->{$providerField} = $socialUserInfo->getId();
-            
+
+            $emp = employee::where('AJV_EMP_Email', '=', $socialUserInfo->getEmail())->first();
+            if($emp != null){            
             $user->socialProfile()->save($socialProfile);
  
             auth()->login($user);
- 
-  //      } catch (Exception $e) {
-  //          throw new SocialAuthException("failed to authenticate with $provider");
-    //    }
+            }
     }
+
 }

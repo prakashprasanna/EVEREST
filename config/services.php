@@ -14,11 +14,6 @@ return [
     |
     */
 
-    'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
-    ],
-
     'ses' => [
         'key' => env('SES_KEY'),
         'secret' => env('SES_SECRET'),
@@ -35,10 +30,17 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
-   'facebook' => [
+    'facebook' => [
         'client_id' => env('FACEBOOK_CLIENT_ID'),
         'client_secret' => env('FACEBOOK_CLIENT_SECRET'),
-        'redirect' => 'http://ajveverest.dev/login/facebook/callback',
-    ],
+        'redirect' => 'http://ajv.kiwi/ajveverest/login/facebook/callback',
+
+      ],
+
+    'google' => [ 
+                'client_id' => env ( 'G+_CLIENT_ID' ),
+                'client_secret' => env ( 'G+_CLIENT_SECRET' ),
+                'redirect' => env ( 'G+_REDIRECT' ) 
+        ],
 
 ];

@@ -1,0 +1,60 @@
+First Name
+Last Name
+DOB
+Joining date
+Location 
+Full Name as per bank records
+Full Name as per ID proof
+Bank account no
+Bank Name
+Bank address
+IFSC Code
+Salary Band
+AJV Department
+Montly Target
+PAN No
+IRD No
+Aadhar No
+Email
+Home address
+Personal Mob
+Home Landline 
+Spouse Mob
+
+CREATE TABLE AJV_DEPARTMENT
+(
+AJV_DEP_ID INT(11) NOT NULL,
+AJV_DEP_Name VARCHAR(45) NOT NULL,
+AJV_DEP_Head VARCHAR(45) NOT NULL,
+PRIMARY KEY (AJV_DEP_ID)
+) ENGINE=InnoDB;
+
+CREATE TABLE AJV_EMPLOYEE
+(
+AJV_EMP_Fname VARCHAR(45) NOT NULL,
+AJV_EMP_Lname VARCHAR(45) NOT NULL,
+AJV_EMP_DOB DATETIME NOT NULL,
+AJV_EMP_JoinDate DATETIME NOT NULL,
+AJV_EMP_Email VARCHAR(45) NOT NULL,
+AJV_EMP_MobileNum VARCHAR(45) NOT NULL,
+AJV_EMP_HomeNum VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_SpouseMobile VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_Address VARCHAR(450) NOT NULL,
+AJV_EMP_LocationOfWork VARCHAR(45) NOT NULL,
+AJV_EMP_Aadhar VARCHAR(45) NOT NULL,
+AJV_EMP_PanNo VARCHAR(45) NOT NULL,
+AJV_EMP_IrdNo VARCHAR(45) NOT NULL,
+AJV_DEP_ID INT(11) NOT NULL,
+AJV_EMP_FullName_ID_proof VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_BankAccountNo VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_BankName VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_BankAddress VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_IFSCCode VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_SalaryBand VARCHAR(45) NULL DEFAULT NULL,
+AJV_EMP_MontlyTarget VARCHAR(45) NULL DEFAULT NULL,
+PRIMARY KEY (AJV_EMP_Email)
+) ENGINE=InnoDB;
+
+
+INSERT INTO `ajv_employee` (`AJV_EMP_Fname`, `AJV_EMP_Lname`, `AJV_EMP_DOB`, `AJV_EMP_JoinDate`, `AJV_EMP_Email`, `AJV_EMP_MobileNum`, `AJV_EMP_HomeNum`, `AJV_EMP_SpouseMobile`, `AJV_EMP_Address`, `AJV_EMP_LocationOfWork`, `AJV_EMP_Aadhar`, `AJV_EMP_PanNo`, `AJV_EMP_IrdNo`, `AJV_DEP_ID`, `AJV_EMP_FullName_ID_proof`, `AJV_EMP_BankAccountNo`, `AJV_EMP_BankName`, `AJV_EMP_BankAddress`, `AJV_EMP_IFSCCode`, `AJV_EMP_SalaryBand`, `AJV_EMP_MontlyTarget`) VALUES ('Nishanthi ', 'Kandada', '1980-05-08 00:00:00', '2001-05-08', 'nishanthi.benjamin@ajv.kiwi', '08978912730', '08978912730', '08978912730', 'Hyderabad', 'India', 'AA8979879', 'AZHPP1995M', '', '1', 'Nishanthi Kandada', '910010014228088', 'Axis Bank', 'Plot No. 257/3RT, Sanjeeva Reddy Nagar', 'UTIB0000289', '3', '15');
+

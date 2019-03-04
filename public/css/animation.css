@@ -1,0 +1,38 @@
+	.blink{
+		width:100px;
+		height: 25px;
+	    background-color: green;
+		padding: 10px;	
+		text-align: center;
+		line-height: 0px;
+	}
+	.blink1{
+		width:100px;
+		height: 25px;
+	    background-color: maroon;
+		padding: 10px;	
+		text-align: center;
+		line-height: 0px;
+	}
+	.blink2{
+		width:100px;
+		height: 25px;
+	    background-color: red;
+		padding: 10px;	
+		text-align: center;
+		line-height: 0px;
+	}
+	span1{
+		font-size: 15px;
+		font-family: Arial;
+		color: white;
+		animation: blink 1s linear infinite;
+	}
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
+
+
+
